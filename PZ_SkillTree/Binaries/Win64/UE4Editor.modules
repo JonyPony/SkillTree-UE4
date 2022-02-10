@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"PZ_SkillTree": "UE4Editor-PZ_SkillTree.dll",
+		"PZ_SkillTreeEditor": "UE4Editor-PZ_SkillTreeEditor.dll"
+	}
+}

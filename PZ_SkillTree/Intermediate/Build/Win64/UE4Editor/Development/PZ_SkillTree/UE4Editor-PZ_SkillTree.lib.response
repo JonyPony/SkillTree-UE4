@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PZ_SkillTree.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Atrophia\Intermediate\Build\Win64\ProjectZeroEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Atrophia\Plugins\PZ_SkillTree\Intermediate\Build\Win64\UE4Editor\Development\PZ_SkillTree\Module.PZ_SkillTree.cpp.obj"
+"E:\Atrophia\Plugins\PZ_SkillTree\Intermediate\Build\Win64\UE4Editor\Development\PZ_SkillTree\Module.PZ_SkillTree.gen.cpp.obj"
+"E:\Atrophia\Plugins\PZ_SkillTree\Intermediate\Build\Win64\UE4Editor\Development\PZ_SkillTree\Default.rc2.res"
+/OUT:"E:\Atrophia\Plugins\PZ_SkillTree\Intermediate\Build\Win64\UE4Editor\Development\PZ_SkillTree\UE4Editor-PZ_SkillTree.lib"
+/INCLUDE:IMPLEMENT_MODULE_PZ_SkillTree
